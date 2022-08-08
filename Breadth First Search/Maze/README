@@ -1,0 +1,2 @@
+we can solve solve maze problem using breadth-first search.BFS works by cycling through all possible nodes one hop away from your current position, adding them to a queue and then cycling through all of those nodes in the queue to see if they are the solution.
+https://docs.google.com/presentation/d/1CYQh5xa4Ts6JU7-vG6X13nU13uGdm3UkLcOchQu3qZc/edit#slide=id.p
